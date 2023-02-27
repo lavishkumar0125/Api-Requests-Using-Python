@@ -28,7 +28,7 @@ def getSingleUser():
     # print(response.ok)
 
 
-    # print("ID is: ",data['id'],"\n","Name is: ",data['first_name'],data['last_name'],"\n","URL is:",support['url'])
+    print("ID is: ",data['id'],"\n","Name is: ",data['first_name'],data['last_name'],"\n","URL is:",support['url'])
 
 
 # getSingleUser()
